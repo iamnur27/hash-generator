@@ -6,6 +6,8 @@ A simple Python project that generates hashes using different algorithms.
 - Generate MD5 hash
 - Generate SHA1 hash
 - Generate SHA256 hash
+- Interactive menu
+- Easy to use command-line interface
 
 ## Technologies
 
